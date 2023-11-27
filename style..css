@@ -4,6 +4,13 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.navbar {
+  font-size: 25px;
+  font-style:normal;
+}
+
+
 .carousel-item {
   height: 100vh;
   min-height: 300px;
@@ -22,4 +29,16 @@ display: inline;
  width: 800px;
   }
 
- 
+  .abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .form-horizontal {
+    margin: 0 auto;
+  }
+.form-horizontal {
+  align-items: center;
+}

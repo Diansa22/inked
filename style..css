@@ -5,18 +5,12 @@ body {
   background-size: cover;
 }
 
-
-
-
 .carousel-inner {
     max-height: 500px;
     padding: 0px;
    
   }
-  .card-text {
-      
-  }
-
+ 
   .div-col {
 display: inline;
   }
@@ -24,6 +18,3 @@ display: inline;
   .imanosotros {
  width: 500px;
   }
- .logotipo {
-  width: 50px;
- }

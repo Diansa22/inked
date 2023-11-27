@@ -1,3 +1,13 @@
+body {
+  background-image: url(imagenes/fondo3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+
 .carousel-inner {
     max-height: 500px;
     padding: 0px;
@@ -10,3 +20,10 @@
   .div-col {
 display: inline;
   }
+
+  .imanosotros {
+ width: 500px;
+  }
+ .logotipo {
+  width: 50px;
+ }

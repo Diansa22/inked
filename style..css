@@ -1,3 +1,4 @@
+
 body {
   background-image: url(imagenes/fondo3.jpg);
   background-repeat: no-repeat;
@@ -40,5 +41,8 @@ display: inline;
     margin: 0 auto;
   }
 .form-horizontal {
+  align-items: center;
+}
+.container.form {
   align-items: center;
 }
